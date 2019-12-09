@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.99.1](https://www.github.com/googleapis/java-monitoring/compare/v1.99.0...v1.99.1) (2019-12-09)
+
+
+### Dependencies
+
+* update dependency com.google.protobuf:protobuf-java to v3.11.1 ([#18](https://www.github.com/googleapis/java-monitoring/issues/18)) ([f106065](https://www.github.com/googleapis/java-monitoring/commit/f106065acac2effec623abe08a0f4a1270575ca6))
+* update gax.version to v1.51.0 ([#20](https://www.github.com/googleapis/java-monitoring/issues/20)) ([8ce6622](https://www.github.com/googleapis/java-monitoring/commit/8ce6622532d28f21b12d6680d41e79bc4b239dea))
+
 ## [1.99.0](https://www.github.com/googleapis/java-monitoring/compare/1.98.0...v1.99.0) (2019-11-15)
 
 
